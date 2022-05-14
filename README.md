@@ -1,3 +1,7 @@
+# React 学習用リポジトリ
+
+React18 開発学習用
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
